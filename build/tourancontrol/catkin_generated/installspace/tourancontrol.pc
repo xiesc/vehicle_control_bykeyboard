@@ -1,0 +1,8 @@
+prefix=/home/xiesc/xieshichao/vehicle_control_by_keyboard/install
+
+Name: tourancontrol
+Description: Description of tourancontrol
+Version: 1.0.0
+Cflags: -I/home/xiesc/xieshichao/vehicle_control_by_keyboard/install/include
+Libs: -L/home/xiesc/xieshichao/vehicle_control_by_keyboard/install/lib 
+Requires: roscpp std_msgs message_runtime
